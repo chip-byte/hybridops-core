@@ -88,10 +88,6 @@ other fields set by the operator remain unchanged. Passwords do not belong in
 the target file. Start a new automation session after editing it so generated
 client material uses the updated values.
 
-Discussion [#360](https://github.com/hybridops-tech/hybridops-core/discussions/360)
-records an operator check covering lease discovery, private SSH access and
-retention of operator-managed fields after an address change.
-
 ## Documentation
 
 - [Operator runbook](https://docs.hybridops.tech/ops/runbooks/platform/blueprints/hyops-blueprint-eve-ng/)
